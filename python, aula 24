@@ -5,6 +5,6 @@ funcionario = input ("digite seu cargo:")
 dia = input ("digite o dia da semana:")
 
 if funcionarioin cargo and dia in dia da semana:
-  print = ("acesso permitido")
+  print ("acesso permitido")
 else:
-  print = ("acesso negado")
+  print ("acesso negado")
