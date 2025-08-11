@@ -2,7 +2,7 @@ cargo = ["analista", "estagiario", "gerente"]
 dia_da_semana = ["segunda", "terça", "quarta", "quinta", "sexta", "sabado", "domingo"]
 
 funcionario = input ("digite seu cargo:")
-dia = input ("digite o dia da semana:")
+dia = input("digite o dia da semana:")
 
 if funcionarioin cargo and dia in dia da semana:
   print ("acesso permitido")
